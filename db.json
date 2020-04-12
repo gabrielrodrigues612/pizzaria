@@ -1,0 +1,68 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "title": "Brasileira",
+      "ingredientes": "cebola, pimentão, queijo"
+    },
+    {
+      "id": 1,
+      "title": "EUA",
+      "ingredientes": "cebola, pimentão, queijo, calabresa"
+    },
+    {
+      "id": 2,
+      "title": "Abacaxi",
+      "ingredientes": "pimentão, queijo, abacaxi"
+    },
+    {
+      "id": 3,
+      "title": "Tomate",
+      "ingredientes": "cebola, pimentão, queijo, calabresa, tomate"
+    },
+    {
+      "title": "Calabresa",
+      "ingredientes": "Cebola, calabresa, queijo, tomate",
+      "id": 4
+    },
+    {
+      "title": "Quatro queijos",
+      "ingredientes": "Queijo, queijo, queijo, queijo",
+      "id": 5
+    },
+    {
+      "title": "Frango frito",
+      "ingredientes": "frango, óleo",
+      "id": 6
+    },
+    {
+      "title": "Queijo coalho",
+      "ingredientes": "Calabresa, queijo coalho, trigo",
+      "id": 7
+    }
+  ],
+  "cadastro": [
+    {
+      "id": 1,
+      "nome": "Gabriel Santos",
+      "email": "gabriel@santos.com",
+      "password": "gabriel1234",
+      "endereço": {
+        "rua": "Maria Lourenço dos Santos",
+        "numero": 300,
+        "bairro": "Zélia Barbosa Rocha"
+      }
+    },
+    {
+      "nome": "Gabriel Rodrigues da Silva",
+      "email": "gabriel@gabriel.com",
+      "password": "gabriel123",
+      "endereço": {
+        "rua": "Maria Lourenço",
+        "numero": 306,
+        "bairro": "Zélia Barbosa Rocha"
+      },
+      "id": 2
+    }
+  ]
+}
